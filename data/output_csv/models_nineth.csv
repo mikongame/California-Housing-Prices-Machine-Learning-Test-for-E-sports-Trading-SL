@@ -1,0 +1,2 @@
+,model,r2,explained_variance,neg_mean_squared_error,neg_root_mean_squared_error
+0,RandomForestRegressor,0.9977106640770874,0.99738156430358,-28362669.103212617,-5703.630175130178

@@ -1,0 +1,2 @@
+,model,r2,explained_variance,neg_mean_squared_error,neg_root_mean_squared_error
+0,BaggingRegressor,0.9965521047817555,0.9971246452620137,-41710802.891734086,-6684.3674781324125

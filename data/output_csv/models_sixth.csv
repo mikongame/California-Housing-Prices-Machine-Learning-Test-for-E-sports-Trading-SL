@@ -1,0 +1,2 @@
+,model,r2,explained_variance,neg_mean_squared_error,neg_root_mean_squared_error
+0,GradientBoostingRegressor,0.9946446813843204,0.9948160655361346,-69239520.31112897,-8293.998611229554

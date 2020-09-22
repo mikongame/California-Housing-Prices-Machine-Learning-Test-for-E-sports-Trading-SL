@@ -1,0 +1,2 @@
+,model,r2,explained_variance,neg_mean_squared_error,neg_root_mean_squared_error
+0,DecisionTreeRegressor,0.9933459114755522,0.9942618706219092,-77271027.26797226,-9825.186897404054
