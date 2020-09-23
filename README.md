@@ -7,7 +7,7 @@ Este README está por realizar.
 * Hay dos documentos "test_ml" y "test_ml-pipe-based".
 Las tareas obligatorias de la prueba y algunas opcionales las venía haciendo en el primero, pero como quería ser exhaustivo usando tanto RandomSearchCV como GridSearchCV de forma consecutiva y no tenía claro como hacerlo en un mismo pipeline he optado por hacer un segundo documento en el que hago uso GridSearch dentro de un data pipeline con los parametros del primer notebook (sin hacer RandomSearch).
 
-* Otra cosa relevante es que antes de hacer el Custom Transformer dentro del preprocessing pipeline, los resultados de los modelos eran mejores (los puedes ver en los documentos old_model_ensambled.csv y old_models_all.csv), y al ser datos distintos he tenido que repetir toda la parte de fine-tuning. Entre esto y varias caídas de kernel de la maquina virtual que me he montado en Google Cloud, aún tengo el ensemble entrenando por lo que los resultados del final del notebook no corresponden al último modelo. Al menos el codigo está terminado en ambos casos.
+* Otra cosa relevante es que antes de hacer el Custom Transformer dentro del preprocessing pipeline, los resultados de los modelos eran mejores (los puedes ver en los documentos data/output_csv/old_model_ensambled.csv y data/output_csv/old_models_all.csv), y al ser datos distintos he tenido que repetir toda la parte de fine-tuning. Entre esto y varias caídas de kernel de la maquina virtual que me he montado en Google Cloud, aún tengo el ensemble entrenando por lo que los resultados del final del notebook no corresponden al último modelo. Al menos el codigo está terminado en ambos casos.
 
 
 ## Content
