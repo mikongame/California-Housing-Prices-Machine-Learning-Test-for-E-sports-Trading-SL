@@ -1,0 +1,2 @@
+,model,r2,explained_variance,neg_mean_squared_error,neg_root_mean_squared_error
+0,VotingRegressor,0.8325374785018682,0.8333548647527625,-2241219217.7356286,-47356.56708271426
