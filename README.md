@@ -1,5 +1,5 @@
 
-#  California Housing Prices: Machine Learning Test 
+#  California Housing Prices: Machine Learning Test for-E-sports Trading SL
 **Miguel García Melgar**
 
 Este README está por realizar.
@@ -54,9 +54,18 @@ Las tareas obligatorias de la prueba y algunas opcionales las venía haciendo en
 ## Future improvements
 
 
-
 ## Tools and requirements
+In order to finish all the workflow within 3 days I worked on Google Cloud Platform running an instance fo a n1-standard-16 Virtual Machine, which included 16 vCPUs a 60 GB vRAM.
 
+I have also used the lastest versions of the following packages and libraries:
+* pandas
+* numpy
+* math
+* seaborn
+* matplotlib
+* yellowbrick
+* sklearn 
 
 ## Links
+[Repository](https://github.com/mikongame/California-Housing-Prices-Machine-Learning-Test-for-E-sports-Trading-SL)  
 
