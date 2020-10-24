@@ -1,5 +1,5 @@
 
-#  California Housing Prices: Machine Learning Test for-E-sports Trading SL
+#  California Housing Prices: ML Test for-E-sports Trading SL
 **Miguel García Melgar**
 
 Este README está por realizar.
@@ -24,12 +24,24 @@ Las tareas obligatorias de la prueba y algunas opcionales las venía haciendo en
 - [Links](#links)
 
 ## Project Description
-
+That was technical test I had to do during a recruitment process for a Junior Data Scientinst position in a company that made e-sport results prediction for trading. The test used this dataset from Kaggle, [California Housing Prices](https://www.kaggle.com/camnugent/california-housing-prices) ,originally used in the second chapter of Aurélien Géron's recent book 'Hands-On Machine learning with Scikit-Learn and TensorFlow', which holds information from the 1990 California census.
 
 ## Objective
-
+You are hired as a Data Scientist at a top real state company in California, and you first job is to develop an ML model to predict house prices. This model will then be used as an investment tool in your company, to buy houses when their price is lower than their real value or negotiating overprices.
 
 ## Dataset
+The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. Be warned the data aren't cleaned so there are some preprocessing steps required! The columns are as follows, their names are pretty self explanitory:
+
+*longitude
+*latitude
+*housingmedianage
+*total_rooms
+*total_bedrooms
+*population
+*households
+*median_income
+*medianhousevalue
+*ocean_proximity
 
 ## Workflow
 ### Exploratory Data Analysis
